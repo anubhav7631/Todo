@@ -22,5 +22,4 @@ Netlify for frontend deployment
 Render for backend deployment
 
 Live Demo
-
-[Deployed URL]([https://your-app.vercel.app](https://resonant-gelato-c36f8a.netlify.app/)) 
+(https://resonant-gelato-c36f8a.netlify.app/)
